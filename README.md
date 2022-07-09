@@ -14,7 +14,7 @@ git clone https://github.com/santoshkamble8168/React-Redux-Saga-tailwindCSS-Quic
 ```
 
 ```bash
-cd react-redux-saga-tailwind-quickstart
+cd React-Redux-Saga-tailwindCSS-Quickstart
 ```
 
 #Remove .git folder
